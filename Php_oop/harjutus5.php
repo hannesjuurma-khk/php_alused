@@ -46,8 +46,7 @@ if(isset($_GET['enimi']) && isset($_GET['pnimi']) && isset($_GET['kontakt'])){
     } else {
         echo "Midagi on puudu";
     }
-} else {
-    echo "Midagi on puudu";
+
 }
 
 

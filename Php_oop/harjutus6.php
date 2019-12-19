@@ -44,9 +44,7 @@ if (!empty($_GET["kustutaID"]) and strlen($_GET["kustutaID"]) > 0) {
            window.location = "http://juurmahannes.ikt.khk.ee/php_alused/Php_oop/harjutus6.php"
               </script>';
         */
-        // Taaskäivita lehekülg
-        header("location: http://juurmahannes.ikt.khk.ee/php_alused/Php_oop/harjutus6.php?");
-        echo("<meta http-equiv='refresh'>");
+
 
 
     }
